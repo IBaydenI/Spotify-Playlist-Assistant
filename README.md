@@ -1,0 +1,1 @@
+Simple Python project to export your Spotify playlists in plaintext. This will not download the actual music, just the metadata such as artists, song name, etc.
